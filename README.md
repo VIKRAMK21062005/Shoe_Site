@@ -14,10 +14,11 @@ This multi-page web project allows users to browse products, view details, manag
 - 🌐 **Multi-page Structure** – Includes `index.html`, `products.html`, `cart.html`, and more  
 - 📱 **Fully Responsive** – Mobile-friendly layout with media queries  
 - 🎨 **Modern Styling** – Consistent branding, fonts, and layout aesthetics
+---
 ## Host Link
-```
-https://shoestore2k.netlify.app/
-```
+
+Website Link : https://shoestore2k.netlify.app/
+
 ---
 
 ## 🛠️ Tech Stack
